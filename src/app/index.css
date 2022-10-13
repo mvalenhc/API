@@ -1,0 +1,5 @@
+body {
+    background: rgb(184,184,184);
+    background: -webkit-linear-gradient(to right, rgba(184,184,184,1) 0%, rgba(105,105,105,1) 57%, rgba(125,125,125,1) 94%);
+    background: linear-gradient( to right 90deg, rgba(184,184,184,1) 0%, rgba(105,105,105,1) 57%, rgba(125,125,125,1) 94%);
+}
